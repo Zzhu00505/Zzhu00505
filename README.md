@@ -1,33 +1,5 @@
-Сообщение для себя
-19.11.2023
-
-405 kB
-
-6:34 PM
-
-363 kB
-
-6:34 PM
-
-412 kB
-
-6:34 PM
-
-376 kB
-
-+15
-01.12.2023
-
-358 kB
-
-7:22 PM
-
-333 kB
-
-7:22 PM
-СЕГОДНЯ
 from pptx import Presentation
-
+from pptx.until import Inches
 # Создание новой презентации
 prs = Presentation()
 
